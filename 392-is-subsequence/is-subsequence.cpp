@@ -13,8 +13,8 @@ public:
             }
                 j++;
             
-            if(i==m)return true;
+            
         }
-        return false;
+        return i==m;
     }
 };
